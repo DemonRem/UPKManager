@@ -5,7 +5,7 @@ namespace UpkManager.Domain.Models {
 
   public class DomainUpkManagerException  {
 
-    public Exception Exception { get; set; }
+    //public Exception Exception { get; set; }
 
     public string MachineName { get; set; }
 
